@@ -1,5 +1,4 @@
-# Pull base ubuntu trusty image
-FROM java:8
+FROM ubuntu
 MAINTAINER royz
 
 # intall utils
